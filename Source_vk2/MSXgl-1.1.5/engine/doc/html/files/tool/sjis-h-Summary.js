@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("File:tool/sjis.h","sjis.h");NDSummary.OnSummaryLoaded("File:tool/sjis.h",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[767,0,1,"Functions","Functions"],[768,0,0,"SJIS_Convert","SJIS_Convert"]]);

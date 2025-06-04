@@ -1,0 +1,5 @@
+Consider: multi-directional whipping will change balance of game! Make it easier.
+		Solution: consider dynamic scaling of difficulty. 
+
+Consider: Upgrades are less useful with multiwhip and higher damage enemies 
+		Solution: make it so certain enemies are more susceptible to different sub-weapons.

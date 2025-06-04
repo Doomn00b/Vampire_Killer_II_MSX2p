@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({54:"<div class=\"NDToolTip TFunction LC\"><div id=\"NDPrototype54\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">bool</span> PAC_Initialize()</div></div><div class=\"TTSummary\">Initialize PAC module</div></div>"});

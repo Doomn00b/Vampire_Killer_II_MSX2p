@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:tool/mem_op.h","mem_op.h");NDSummary.OnSummaryLoaded("File:tool/mem_op.h",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[155,0,1,"Functions","Functions"],[156,0,0,"Mem_LShift","Mem_LShift"],[157,0,0,"Mem_RShift","Mem_RShift"],[158,0,0,"Mem_Inc","Mem_Inc"],[159,0,0,"Mem_Dec","Mem_Dec"]]);
